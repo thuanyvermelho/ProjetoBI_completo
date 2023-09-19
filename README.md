@@ -1,4 +1,4 @@
-# Etapa 1: Criação do Banco de Dados e Consultas SQL
+# Etapa 1: Desenvolvimento do Banco de Dados e Consultas SQL Avançadas
 
 Nesta primeira etapa do projeto, concentramos nossos esforços na criação do banco de dados destinado a registrar ocorrências policiais durante o período de 2018 a 2021. Esta fase envolve desde o levantamento dos dados iniciais até a construção da arquitetura do banco e a elaboração de consultas SQL para análises detalhadas.
 
