@@ -7,16 +7,15 @@ Etapa 3: [Análises e Visualização no Power BI](https://github.com/thuanyverme
 
 Cada uma dessas etapas aborda uma parte importante do processo de Business Intelligence, e você pode acessar as instruções e os recursos específicos de cada etapa clicando nos links acima.
 
-Cada uma dessas etapas é essencial para o gerenciamento eficaz dos registros de ocorrências policiais, e você pode acessar as instruções e os recursos específicos de cada etapa clicando nos links acima.
-
 ## Registros de Ocorrências Policiais (2018-2021)
-Este projeto visa manter registros detalhados de todas as ocorrências policiais ocorridas no período de 2018 a 2021 do estado do Rio de Janeiro. As informações contidas neste banco de dados são essenciais para a análise de tendências, a tomada de decisões e o acompanhamento das atividades policiais.
+Este projeto visa manter registros detalhados de todas as ocorrências policiais ocorridas no período de 2018 a 2021 do estado do Rio de Janeiro. As informações contidas neste banco de dados são essenciais para a análises, a tomada de decisões e o acompanhamento das atividades policiais.
 
 ### Requisitos
 Certifique-se de ter as seguintes ferramentas e recursos instalados antes de começar:
 
 SQLlite Studio versão 3.12.2 <br>
 PostgreSQL versão 16 <br>
+MySQL Workbench versão 8.0.33 <br>
 Anaconda Python versão 3.11 <br>
 Power BI Desktop <br>
 
