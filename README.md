@@ -44,7 +44,7 @@ Neste projeto, você encontrará os seguintes diretórios principais:
 
 1 - **dados/:** Contém arquivos CSV que serviram como fonte de dados para a criação do banco.
 
-2 - **aulas/:** Armazena materiais do curso, incluindo slides de aulas, notas e recursos relacionados.
+2 - **Ocorrencia1/:** Backup de Banco de Dados SQL.
 
 3 - **queries/:** Aqui estão todas as consultas SQL desenvolvidas, cobrindo diferentes níveis de complexidade.
 
