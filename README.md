@@ -8,7 +8,7 @@ O processo de criação de um banco de dados eficaz começa com o levantamento d
 
 - Identificamos as fontes de dados, que incluem arquivos CSV disponibilizados pelo Instituto de Segurança Pública do Rio de Janeiro.
 
-- Todos os arquivos CSV extraídos estão disponíveis na pasta [dados](link-para-a-pasta-dados-fonte) deste repositório.
+- Todos os arquivos CSV extraídos estão disponíveis na pasta [dados](https://github.com/thuanyvermelho/ProjetoBI_completo/tree/main/Dados) deste repositório.
 
 ## Criação da Estrutura do Banco de Dados
 
