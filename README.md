@@ -37,8 +37,6 @@ Inseri a tabela de municípios no banco de dados, enriquecendo-o com informaçõ
 ### Consultas SQL de Nível Intermediário a Avançado
 Criei consultas SQL de nível intermediário a avançado para aprofundar meus conhecimentos em SQL e explorar análises mais detalhadas. Estas consultas abrangem tópicos como junções complexas, subconsultas avançadas, funções de janela e operações de conjunto.
 
-Minha jornada de aprendizado durante o curso foi enriquecida não apenas pela absorção de conhecimento fornecido, mas também pela minha participação ativa em áreas específicas, nas quais busquei aprimorar minhas habilidades e aprofundar minha compreensão. 
-
 ## Diretórios Principais
 Neste projeto, você encontrará os seguintes diretórios principais:
 
