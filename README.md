@@ -1,7 +1,7 @@
 # Projeto de Banco de Dados para Business Intelligence
 Este repositório contém um projeto de estudo de banco de dados para Business Intelligence (BI), que abrange desde a criação do banco de dados inicial até a visualização dos dados com ferramentas como Power BI. O projeto foi dividido em três etapas principais, cada uma com seu próprio branch correspondente:
 
-Etapa 1: [Criação do Banco de Dados e Consultas SQL](https://github.com/thuanyvermelho/ProjetoBI_completo/tree/Cria%C3%A7%C3%A3o-do-Banco-de-Dados-e-Consultas-SQL)<br>
+Etapa 1: [Desenvolvimento do Banco de Dados e Consultas SQL Avançadas](https://github.com/thuanyvermelho/ProjetoBI_completo/tree/Cria%C3%A7%C3%A3o-do-Banco-de-Dados-e-Consultas-SQL)<br>
 Etapa 2: [Implementando Data Warehouse (DW) com Python](https://github.com/thuanyvermelho/ProjetoBI_completo/tree/Implementando-Data-Warehouse-(DW)-com-Python)<br>
 Etapa 3: [Análises e Visualização no Power BI](https://github.com/thuanyvermelho/ProjetoBI_completo/tree/An%C3%A1lises-e-Visualiza%C3%A7%C3%A3o-no-Power-BI)<br>
 
