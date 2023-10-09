@@ -16,7 +16,7 @@ SQLlite Studio versão 3.12.2 <br>
 PostgreSQL versão 16 <br>
 MySQL Workbench versão 8.0.33 <br>
 Anaconda Python versão 3.11 <br>
-Power BI Desktop <br>
+
 
 ### Contribuição
 Se você deseja contribuir para este projeto, sinta-se à vontade para abrir uma issue ou enviar uma solicitação de pull em um dos branches correspondentes às etapas.
